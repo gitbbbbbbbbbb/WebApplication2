@@ -1,0 +1,12 @@
+C:\Users\angel\source\repos\WebApplication2\IService\bin\Debug\net6.0\IService.deps.json
+C:\Users\angel\source\repos\WebApplication2\IService\bin\Debug\net6.0\IService.dll
+C:\Users\angel\source\repos\WebApplication2\IService\bin\Debug\net6.0\IService.pdb
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.AssemblyInfo.cs
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.dll
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\refint\IService.dll
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\IService.pdb
+C:\Users\angel\source\repos\WebApplication2\IService\obj\Debug\net6.0\ref\IService.dll

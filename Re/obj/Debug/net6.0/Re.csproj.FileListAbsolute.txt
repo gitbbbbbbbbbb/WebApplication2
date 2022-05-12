@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\WebApplication2\Re\bin\Debug\net6.0\Re.deps.json
+C:\Users\angel\source\repos\WebApplication2\Re\bin\Debug\net6.0\Re.dll
+C:\Users\angel\source\repos\WebApplication2\Re\bin\Debug\net6.0\Re.pdb
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.AssemblyInfo.cs
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.dll
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\refint\Re.dll
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.pdb
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\ref\Re.dll
+C:\Users\angel\source\repos\WebApplication2\Re\bin\Debug\net6.0\model.dll
+C:\Users\angel\source\repos\WebApplication2\Re\bin\Debug\net6.0\model.pdb
+C:\Users\angel\source\repos\WebApplication2\Re\obj\Debug\net6.0\Re.csproj.CopyComplete
